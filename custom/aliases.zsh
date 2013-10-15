@@ -3,3 +3,5 @@
 #
 # brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
 #
+
+alias glg='git log --oneline --graph --remotes --decorate --all'
