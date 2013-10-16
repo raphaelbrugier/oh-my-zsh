@@ -3,5 +3,5 @@
 #
 # brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
 #
-
+devs=~/devs
 alias glg='git log --oneline --graph --remotes --decorate --all'
